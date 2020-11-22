@@ -12,5 +12,5 @@ zuul:
   ignoredServices: '*'
   routes:
     math-microservice:
-      path: /math/**
+      path: /check/**
       
