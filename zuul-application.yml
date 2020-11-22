@@ -14,3 +14,4 @@ zuul:
     math:
       path: /math/**
       serviceId: math-microservice
+      stripPrefix: true
